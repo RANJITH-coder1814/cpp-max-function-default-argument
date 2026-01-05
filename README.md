@@ -4,9 +4,7 @@ C++
 
 This repository contains a simple C++ program that demonstrates the use of a function with a **default argument** to find the maximum of two or three numbers.
 
----
-
-## 📌 Program Description
+##📌 Program Description
 
 The `max()` function accepts three integers:
 - The third parameter has a default value of `0`
